@@ -97,10 +97,5 @@ python network_scanner.py TCP 192.168.1.10 22 80
   Scapy requires elevated privileges for sending raw packets. On Windows, run your terminal as Administrator. On Linux/macOS, use `sudo`.
 - **For educational and authorized use only.**
 
-## License
-
-MIT License
-
----
 
 **Author:** ThanikaNatarajan
